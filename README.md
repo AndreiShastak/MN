@@ -1,2 +1,2 @@
 # MN
-linear equations solver
+Linear equations solver
